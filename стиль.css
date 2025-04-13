@@ -78,5 +78,5 @@ a {
   }
 .center{
     display: block;
-  margin: 50%;
+  left: 50%;
 }
